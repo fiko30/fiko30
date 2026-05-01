@@ -130,7 +130,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
       <br>Ghidra
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/P3TERX/Actions-OpenWrt/master/logo.png" width="48" height="48" style="background: #000; padding: 8px; border-radius: 4px;" alt="Burp Suite" />
+      <img src="https://cdn.simpleicons.org/burpsuite/FF6633/FFFFFF" width="48" height="48" alt="Burp Suite" />
       <br>Burp Suite
     </td>
     <td align="center" width="96">
@@ -186,7 +186,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   <thead>
     <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
       <th style="padding: 16px 12px; text-align: left; font-size: 15px; font-weight: 600;">🏅 Competition</th>
-      <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">️ Position</th>
+      <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">Position</th>
       <th style="padding: 16px 12px; text-align: left; font-size: 15px; font-weight: 600;">🏛️ Organizer</th>
       <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">📅 Year</th>
     </tr>
@@ -254,7 +254,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 ---
 
-#### 📝 Featured Projects & Write-Ups
+#### 📝 Featured Projects
 
 ##### 💼 Notable Projects
 - **Write-Up-CTF** 🗂️ — Collection of CTF solutions with detailed analysis
