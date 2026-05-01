@@ -5,12 +5,6 @@
   <em>Learning Forensics & Security One Challenge at a Time</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="35" />
-  <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="35" />
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="35" />
-</p>
-
 ---
 
 #### 🛡️ About Me
@@ -18,8 +12,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 - 🎓 Jakarta State Vocational High School 40
 - 📍 Jakarta, Indonesia  
-- 🎮 Capture The Flag player | 🔍 Forensics | 💻 PWN Enthusiast
-- ⚡ Fun fact: I spend more time analyzing binaries than sleeping!
+- 🎮 Capture The Flag player | 🔍 Forensics
 
 ---
 
@@ -199,35 +192,39 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #fff5f5; border-bottom: 1px solid #fed7d7;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🥉 FGTE 0</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #cd7f32; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Juara 3</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">Mahasiswa Universitas Nurul Fikri</td>
+    <tr style="background: #f0fff4; border-bottom: 1px solid #9ae6b4;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🎓 LKS (Lomba Kompetensi Siswa)</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #38b000; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Harapan 2 / TOP 5</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">Dinas Pendidikan Jakarta Timur</td>
       <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
     </tr>
-    <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🏆 NETCOMP</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #4299e1; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 10</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">Universitas Gajah Mada</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2025</td>
-    </tr>
+
     <tr style="background: #fffaf0; border-bottom: 1px solid #fbd38d;">
       <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🛡️ Waskita Manunggal Siber</td>
       <td style="padding: 14px 12px; text-align: center;"><span style="background: #ed8936; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 40</span></td>
       <td style="padding: 14px 12px; color: #4a5568;">TNI</td>
       <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
     </tr>
+    
+    <tr style="background: #fff5f5; border-bottom: 1px solid #fed7d7;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🥉 FGTE 0</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #cd7f32; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Juara 3</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">Mahasiswa Universitas Nurul Fikri</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    </tr>
+    
     <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
       <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🌙 Hackena Ramadhan CTF</td>
       <td style="padding: 14px 12px; text-align: center;"><span style="background: #38a169; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Top 11</span></td>
       <td style="padding: 14px 12px; color: #4a5568;">HackerOne Egypt</td>
       <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
     </tr>
-    <tr style="background: #f0fff4; border-bottom: 1px solid #9ae6b4;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🎓 LKS (Lomba Kompetensi Siswa)</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #38b000; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Harapan 2 / TOP 5</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">Dinas Pendidikan Jakarta Timur</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    
+    <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🏆 NETCOMP</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #4299e1; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 10</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">Universitas Gajah Mada</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2025</td>
     </tr>
   </tbody>
 </table>
@@ -257,33 +254,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 ---
 
-#### 🎓 Education & Focus
-
-##### 📚 Formal Education
-- **SMKN 40 Jakarta** (2024-2027)
-  - Major: Cybersecurity & Software Engineering
-  - Focus: Network Security • Digital Forensics • Reverse Engineering • Binary Exploitation
-
-##### 🎯 Current Learning Path
-- [ ] Advanced PWN & Binary Exploitation
-- [ ] Reverse Engineering with Ghidra/IDA
-- [ ] Web Application Security Assessment
-- [ ] Building custom CTF challenges & write-ups
-
-##### 🎯 2026 Goals
-- [ ] Compete in international CTF events
-- [ ] Earn OSCP or similar certification
-- [ ] Contribute to open-source security tools
-- [ ] Publish 10+ technical write-ups
-
----
-
 #### 📝 Featured Projects & Write-Ups
-
-##### 🔍 Recent Write-Ups
-- **PWN Challenges** - Step-by-step binary exploitation walkthroughs
-- **Forensics Analysis** - Memory dump & disk image investigation
-- **Web Exploitation** - SQLi, XSS, SSRF vulnerability reports
 
 ##### 💼 Notable Projects
 - **Write-Up-CTF** 🗂️ — Collection of CTF solutions with detailed analysis
