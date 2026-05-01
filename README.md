@@ -64,20 +64,20 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   <img src="https://img.shields.io/badge/Ghidra-007396?style=for-the-badge&logo=ghidra&logoColor=white&labelColor=004D66" alt="Ghidra" />
   <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=CC5229" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D5A7A" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-102C56?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0A1D3A" alt="Nmap" />
-  <img src="https://img.shields.io/badge/SQLmap-FF3333?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=CC2929" alt="SQLmap" />
-  <img src="https://img.shields.io/badge/Metasploit-2B5B84?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1E3D59" alt="Metasploit" />
   <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logo=hashcat&logoColor=white&labelColor=000000" alt="John the Ripper" />
 </p>
 
-##### 🔧 Development & Analysis Tools
+##### 🔧 Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=CC432B" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0C0C" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=005FA3" alt="VS Code" />
+</p>
+
+##### 🔍 Binary Analysis Tools
+<p align="left">
   <img src="https://img.shields.io/badge/GDB-1a1a1a?style=for-the-badge&logo=gnu&logoColor=white&labelColor=000000" alt="GDB" />
   <img src="https://img.shields.io/badge/pwntools-FFD700?style=for-the-badge&logo=python&logoColor=black&labelColor=CCAC00" alt="pwntools" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E7AB8" alt="Docker" />
 </p>
 
 ---
