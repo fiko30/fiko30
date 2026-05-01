@@ -257,17 +257,14 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 #### 🔗 Let's Connect!
 
 <p align="center">
-  <a href="mailto:fikozha@gmail.com">
+  <a href="mailto:fikoziha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B8342E" alt="Email" />
   </a>
-  <a href="https://instagram.com/fikzzz_xxy">
+  <a href="https://www.instagram.com/fikzzz_xyy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=D13652" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/fiko30">
+  <a href="https://www.linkedin.com/in/fiko-naufal-744b7a392/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0854A1" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/fiko30">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0C0C" alt="GitHub" />
   </a>
 </p>
 
