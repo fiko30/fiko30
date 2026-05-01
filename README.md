@@ -129,23 +129,23 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" />
+      <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghidra/ghidra-original.svg" width="48" height="48" alt="Ghidra" />
+      <img src="https://ghidra-sre.org/images/ghidra-logo.png" width="48" height="48" alt="Ghidra" />
       <br>Ghidra
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/burpsuite/000000/FFFFFF" width="48" height="48" alt="Burp Suite" />
+      <img src="https://raw.githubusercontent.com/P3TERX/Actions-OpenWrt/master/logo.png" width="48" height="48" style="background: #000; padding: 8px; border-radius: 4px;" alt="Burp Suite" />
       <br>Burp Suite
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" />
+      <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" width="48" height="48" alt="Wireshark" />
       <br>Wireshark
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/johntheripper/000000/FFFFFF" width="48" height="48" alt="John the Ripper" />
+      <img src="https://www.openwall.com/john/images/john-logo.png" width="48" height="48" alt="John the Ripper" />
       <br>John the Ripper
     </td>
   </tr>
@@ -173,7 +173,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gdb/gdb-original.svg" width="48" height="48" alt="GDB" />
+      <img src="https://sourceware.org/gdb/current/images/gdb-logo.png" width="48" height="48" alt="GDB" />
       <br>GDB
     </td>
     <td align="center" width="96">
