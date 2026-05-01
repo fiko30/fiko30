@@ -18,7 +18,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 #### 🚀 Tech Stack & Security Tools
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🌐 Web Structure & Styling</h4>
+<h4>🌐 Web Structure & Styling</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -32,9 +32,9 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">💻 Programming Languages</h4>
+<h4>💻 Programming Languages</h4>
 
-<h5 align="left" style="font-size: 16px; font-weight: 600; margin-top: 16px; margin-bottom: 8px;">🔹 Frontend Development</h5>
+<h5>🔹 Frontend Development</h5>
 <table>
   <tr>
     <td align="center" width="96">
@@ -52,7 +52,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h5 align="left" style="font-size: 16px; font-weight: 600; margin-top: 16px; margin-bottom: 8px;">🔹 Backend Development</h5>
+<h5>🔹 Backend Development</h5>
 <table>
   <tr>
     <td align="center" width="96">
@@ -70,7 +70,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🎨 Frontend Frameworks & Libraries</h4>
+<h4>🎨 Frontend Frameworks & Libraries</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -84,7 +84,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">⚙️ Backend Frameworks</h4>
+<h4>⚙️ Backend Frameworks</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -94,7 +94,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">💾 Database Technologies</h4>
+<h4>💾 Database Technologies</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -104,7 +104,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🎨 Design Tools</h4>
+<h4>🎨 Design Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -118,7 +118,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🔐 Cybersecurity Arsenal</h4>
+<h4>🔐 Cybersecurity Arsenal</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -144,7 +144,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🔧 Development Tools</h4>
+<h4>🔧 Development Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -162,7 +162,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
-<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🔍 Binary Analysis Tools</h4>
+<h4>🔍 Binary Analysis Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -178,58 +178,50 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 ---
 
-<h2 style="font-size: 28px; font-weight: bold; margin-top: 32px; margin-bottom: 20px; text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 16px;">🏆 Competition Highlights</h2>
+## 🏆 Competition Highlights
 
-<div align="center" style="margin: 24px 0;">
-
-<table style="border-collapse: separate; border-spacing: 0; width: 100%; max-width: 900px; margin: 0 auto; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.08);">
+<table>
   <thead>
-    <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
-      <th style="padding: 16px 12px; text-align: left; font-size: 15px; font-weight: 600;">🏅 Competition</th>
-      <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">Position</th>
-      <th style="padding: 16px 12px; text-align: left; font-size: 15px; font-weight: 600;">🏛️ Organizer</th>
-      <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">📅 Year</th>
+    <tr>
+      <th>🏅 Competition</th>
+      <th>Position</th>
+      <th>🏛️ Organizer</th>
+      <th>📅 Year</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #f0fff4; border-bottom: 1px solid #9ae6b4;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🎓 LKS (Lomba Kompetensi Siswa)</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #38b000; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Harapan 2 / TOP 5</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">Dinas Pendidikan Jakarta Timur</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    <tr>
+      <td>🎓 LKS (Lomba Kompetensi Siswa)</td>
+      <td align="center"><b>Harapan 2 / TOP 5</b></td>
+      <td>Dinas Pendidikan Jakarta Timur</td>
+      <td align="center">2026</td>
     </tr>
-
-    <tr style="background: #fffaf0; border-bottom: 1px solid #fbd38d;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🛡️ Waskita Manunggal Siber</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #ed8936; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 40</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">TNI</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    <tr>
+      <td>🛡️ Waskita Manunggal Siber</td>
+      <td align="center"><b>TOP 40</b></td>
+      <td>TNI</td>
+      <td align="center">2026</td>
     </tr>
-    
-    <tr style="background: #fff5f5; border-bottom: 1px solid #fed7d7;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🥉 FGTE 0</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #cd7f32; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Juara 3</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">Mahasiswa Universitas Nurul Fikri</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    <tr>
+      <td>🥉 FGTE 0</td>
+      <td align="center"><b>Juara 3</b></td>
+      <td>Mahasiswa Universitas Nurul Fikri</td>
+      <td align="center">2026</td>
     </tr>
-    
-    <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🌙 Hackena Ramadhan CTF</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #38a169; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Top 11</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">HackerOne Egypt</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    <tr>
+      <td>🌙 Hackena Ramadhan CTF</td>
+      <td align="center"><b>Top 11</b></td>
+      <td>HackerOne Egypt</td>
+      <td align="center">2026</td>
     </tr>
-    
-    <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
-      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🏆 NETCOMP</td>
-      <td style="padding: 14px 12px; text-align: center;"><span style="background: #4299e1; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 10</span></td>
-      <td style="padding: 14px 12px; color: #4a5568;">Universitas Gajah Mada</td>
-      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2025</td>
+    <tr>
+      <td>🏆 NETCOMP</td>
+      <td align="center"><b>TOP 10</b></td>
+      <td>Universitas Gajah Mada</td>
+      <td align="center">2025</td>
     </tr>
   </tbody>
 </table>
-
-</div>
 
 ---
 
