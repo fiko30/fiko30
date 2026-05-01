@@ -26,59 +26,138 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 #### 🚀 Tech Stack & Security Tools
 
 ##### 🌐 Web Structure & Styling
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=B83E1F" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F5A8F" alt="CSS3" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
 ##### 💻 Programming Languages
 
 ###### 🔹 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D4C41A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B5B84" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1B731A" alt="C#" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+  </tr>
+</table>
 
 ###### 🔹 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=5E6391" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B5B84" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1B731A" alt="C#" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+  </tr>
+</table>
 
 ##### 🎨 Frontend Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=614291" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=2C8E88" alt="Tailwind CSS" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+  </tr>
+</table>
 
 ##### ⚙️ Backend Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=CC241A" alt="Laravel" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+  </tr>
+</table>
 
 ##### 🔐 Cybersecurity Arsenal
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-2B5B84?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=1E3D59" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Ghidra-007396?style=for-the-badge&logo=ghidra&logoColor=white&labelColor=004D66" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=CC5229" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D5A7A" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logo=hashcat&logoColor=white&labelColor=000000" alt="John the Ripper" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/ghidra-scm/ghidra-scm-icon.svg" width="48" height="48" alt="Ghidra" />
+      <br>Ghidra
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="48" height="48" alt="Burp Suite" />
+      <br>Burp Suite
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" />
+      <br>Wireshark
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.openwall.com/john/images/john-logo.png" width="48" height="48" alt="John the Ripper" />
+      <br>John the Ripper
+    </td>
+  </tr>
+</table>
 
 ##### 🔧 Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=CC432B" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0C0C" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=005FA3" alt="VS Code" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 ##### 🔍 Binary Analysis Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/GDB-1a1a1a?style=for-the-badge&logo=gnu&logoColor=white&labelColor=000000" alt="GDB" />
-  <img src="https://img.shields.io/badge/pwntools-FFD700?style=for-the-badge&logo=python&logoColor=black&labelColor=CCAC00" alt="pwntools" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" width="48" height="48" alt="GDB" />
+      <br>GDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="pwntools" />
+      <br>pwntools
+    </td>
+  </tr>
+</table>
 
 ---
 
