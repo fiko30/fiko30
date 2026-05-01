@@ -185,16 +185,54 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 ---
 
-#### 🏆 Competition Highlights
+<h2 style="font-size: 28px; font-weight: bold; margin-top: 32px; margin-bottom: 20px; text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 16px;">🏆 Competition Highlights</h2>
 
-| 🏅 Competition | 🎖️ Position | 🏛️ Organizer | 📅 Year |
-|----------------|-------------|--------------|---------|
-| 🥇 FGTE 0 | **Juara 1** | Cybersecurity Competition | 2026 |
-| 🥈 Lomba Kompetensi Siswa | **Juara 2** | Nasional | 2026 |
-| 🥉 Astro CTF | **Top 5** | Universitas Nurul Fikri | 2026 |
-| 🏆 Hackena Ramadhan CTF | **Top 9** | HackerOne Egypt | 2026 |
-| 🏆 Ionic CTF | **Top 9** | Institut Teknologi Sepuluh Nopember | 2026 |
-| 🏆 Waskita Manunggal Siber | **Finalis** | Waskita | 2026 |
+<div align="center" style="margin: 24px 0;">
+
+<table style="border-collapse: separate; border-spacing: 0; width: 100%; max-width: 900px; margin: 0 auto; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.08);">
+  <thead>
+    <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+      <th style="padding: 16px 12px; text-align: left; font-size: 15px; font-weight: 600;">🏅 Competition</th>
+      <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">️ Position</th>
+      <th style="padding: 16px 12px; text-align: left; font-size: 15px; font-weight: 600;">🏛️ Organizer</th>
+      <th style="padding: 16px 12px; text-align: center; font-size: 15px; font-weight: 600;">📅 Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background: #fff5f5; border-bottom: 1px solid #fed7d7;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🥉 FGTE 0</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #cd7f32; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Juara 3</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">Mahasiswa Universitas Nurul Fikri</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    </tr>
+    <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🏆 NETCOMP</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #4299e1; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 10</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">Universitas Gajah Mada</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2025</td>
+    </tr>
+    <tr style="background: #fffaf0; border-bottom: 1px solid #fbd38d;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🛡️ Waskita Manunggal Siber</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #ed8936; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">TOP 40</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">TNI</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    </tr>
+    <tr style="background: #f7fafc; border-bottom: 1px solid #e2e8f0;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🌙 Hackena Ramadhan CTF</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #38a169; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Top 11</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">HackerOne Egypt</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    </tr>
+    <tr style="background: #f0fff4; border-bottom: 1px solid #9ae6b4;">
+      <td style="padding: 14px 12px; font-weight: 600; color: #2d3748;">🎓 LKS (Lomba Kompetensi Siswa)</td>
+      <td style="padding: 14px 12px; text-align: center;"><span style="background: #38b000; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 600; font-size: 13px;">Harapan 2 / TOP 5</span></td>
+      <td style="padding: 14px 12px; color: #4a5568;">Dinas Pendidikan Jakarta Timur</td>
+      <td style="padding: 14px 12px; text-align: center; color: #718096; font-weight: 500;">2026</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
