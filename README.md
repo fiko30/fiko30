@@ -101,6 +101,30 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </tr>
 </table>
 
+##### 💾 Database Technologies
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
+##### 🎨 Design Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+  </tr>
+</table>
+
 ##### 🔐 Cybersecurity Arsenal
 <table>
   <tr>
@@ -109,15 +133,15 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/ghidra-scm/ghidra-scm-icon.svg" width="48" height="48" alt="Ghidra" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" width="48" height="48" alt="Ghidra" />
       <br>Ghidra
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="48" height="48" alt="Burp Suite" />
+      <img src="https://raw.githubusercontent.com/alineisthat/devicon-additions/main/icons/burpsuite/burpsuite-original.svg" width="48" height="48" alt="Burp Suite" />
       <br>Burp Suite
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" />
       <br>Wireshark
     </td>
     <td align="center" width="96">
@@ -153,7 +177,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
       <br>GDB
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="pwntools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="pwntools" />
       <br>pwntools
     </td>
   </tr>
