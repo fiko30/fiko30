@@ -246,14 +246,6 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 ---
 
-#### 📝 Featured Projects
-
-##### 💼 Notable Projects
-- **Write-Up-CTF** 🗂️ — Collection of CTF solutions with detailed analysis
-- **Portfolio Website** 🌐 — Personal cybersecurity-themed portfolio (in progress)
-
----
-
 #### 🔗 Let's Connect!
 
 <p align="center">
@@ -283,8 +275,4 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
     <b>Thanks for visiting my profile! Happy Hacking! 🚀🔐</b><br>
     Made with ❤️ and lots of ☕
   </i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="70" />
 </p>
