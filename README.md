@@ -25,159 +25,159 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 #### 🚀 Tech Stack & Security Tools
 
-##### 🌐 Web Structure & Styling
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🌐 Web Structure & Styling</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
   </tr>
 </table>
 
-##### 💻 Programming Languages
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">💻 Programming Languages</h4>
 
-###### 🔹 Frontend Development
+<h5 align="left" style="font-size: 16px; font-weight: 600; margin-top: 16px; margin-bottom: 8px;">🔹 Frontend Development</h5>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
   </tr>
 </table>
 
-###### 🔹 Backend Development
+<h5 align="left" style="font-size: 16px; font-weight: 600; margin-top: 16px; margin-bottom: 8px;">🔹 Backend Development</h5>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
   </tr>
 </table>
 
-##### 🎨 Frontend Frameworks & Libraries
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🎨 Frontend Frameworks & Libraries</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
   </tr>
 </table>
 
-##### ⚙️ Backend Frameworks
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">⚙️ Backend Frameworks</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
   </tr>
 </table>
 
-##### 💾 Database Technologies
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">💾 Database Technologies</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
   </tr>
 </table>
 
-##### 🎨 Design Tools
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🎨 Design Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>
   </tr>
 </table>
 
-##### 🔐 Cybersecurity Arsenal
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🔐 Cybersecurity Arsenal</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" width="48" height="48" alt="Ghidra" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghidra/ghidra-original.svg" width="48" height="48" alt="Ghidra" />
       <br>Ghidra
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/alineisthat/devicon-additions/main/icons/burpsuite/burpsuite-original.svg" width="48" height="48" alt="Burp Suite" />
+      <img src="https://cdn.simpleicons.org/burpsuite/000000/FFFFFF" width="48" height="48" alt="Burp Suite" />
       <br>Burp Suite
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" />
       <br>Wireshark
     </td>
     <td align="center" width="96">
-      <img src="https://www.openwall.com/john/images/john-logo.png" width="48" height="48" alt="John the Ripper" />
+      <img src="https://cdn.simpleicons.org/johntheripper/000000/FFFFFF" width="48" height="48" alt="John the Ripper" />
       <br>John the Ripper
     </td>
   </tr>
 </table>
 
-##### 🔧 Development Tools
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🔧 Development Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
   </tr>
 </table>
 
-##### 🔍 Binary Analysis Tools
+<h4 align="left" style="font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">🔍 Binary Analysis Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" width="48" height="48" alt="GDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gdb/gdb-original.svg" width="48" height="48" alt="GDB" />
       <br>GDB
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="pwntools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="pwntools" />
       <br>pwntools
     </td>
   </tr>
