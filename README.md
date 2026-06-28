@@ -1,4 +1,8 @@
-### Hi there 👋 I'm <b>Fiko Naufal Nur Rohman</b>!
+<p align="center">
+  <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="40" height="40" />
+  <b>Hi there I'm <b>Fiko Naufal Nur Rohman</b>!</b>
+  <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="40" height="40" />
+</p>
 
 <p align="center">
   <b>👨‍💻 Website Developer | Cybersecurity Enthusiast | CTF Player 👨‍💻</b><br>
@@ -175,6 +179,93 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
     </td>
   </tr>
 </table>
+
+---
+
+## 🚀 All Projects
+
+<p align="center">
+  <i>✨ A collection of my web development, creative, and cybersecurity projects ✨</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fiko30/Portofolio" style="text-decoration: none;">
+        <div style="border: 2px solid #667eea; border-radius: 16px; padding: 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; box-shadow: 0 8px 24px rgba(102, 126, 234, 0.3);">
+          <h3 style="margin: 0 0 12px 0; color: white; font-size: 22px;">👨‍💻 Portfolio</h3>
+          <p style="margin: 0 0 16px 0; font-size: 14px; opacity: 0.95; line-height: 1.5;">Personal portfolio website showcasing my skills, projects, and achievements in web development & cybersecurity.</p>
+          <div style="margin: 0 0 16px 0;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          </div>
+          <div style="display: inline-block; background: white; color: #667eea; padding: 8px 24px; border-radius: 20px; font-weight: bold; font-size: 13px;">
+            🔗 View Project →
+          </div>
+        </div>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fiko30/ratna-raufal" style="text-decoration: none;">
+        <div style="border: 2px solid #f5576c; border-radius: 16px; padding: 24px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-align: center; box-shadow: 0 8px 24px rgba(245, 87, 108, 0.3);">
+          <h3 style="margin: 0 0 12px 0; color: white; font-size: 22px;">💑 Ratna & Raufal</h3>
+          <p style="margin: 0 0 16px 0; font-size: 14px; opacity: 0.95; line-height: 1.5;">Elegant wedding invitation website with beautiful animations, music player, and interactive features.</p>
+          <div style="margin: 0 0 16px 0;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          </div>
+          <div style="display: inline-block; background: white; color: #f5576c; padding: 8px 24px; border-radius: 20px; font-weight: bold; font-size: 13px;">
+            🔗 View Project →
+          </div>
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fiko30/birthday" style="text-decoration: none;">
+        <div style="border: 2px solid #fa709a; border-radius: 16px; padding: 24px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; text-align: center; box-shadow: 0 8px 24px rgba(250, 112, 154, 0.3);">
+          <h3 style="margin: 0 0 12px 0; color: white; font-size: 22px;">🎂 Birthday Wish</h3>
+          <p style="margin: 0 0 16px 0; font-size: 14px; opacity: 0.95; line-height: 1.5;">Interactive birthday greeting website with fun animations, confetti effects, and personalized messages.</p>
+          <div style="margin: 0 0 16px 0;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          </div>
+          <div style="display: inline-block; background: white; color: #fa709a; padding: 8px 24px; border-radius: 20px; font-weight: bold; font-size: 13px;">
+            🔗 View Project →
+          </div>
+        </div>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fiko30/Project-PS" style="text-decoration: none;">
+        <div style="border: 2px solid #30cfd0; border-radius: 16px; padding: 24px; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); color: white; text-align: center; box-shadow: 0 8px 24px rgba(48, 207, 208, 0.3);">
+          <h3 style="margin: 0 0 12px 0; color: white; font-size: 22px;">📚 Project PS</h3>
+          <p style="margin: 0 0 16px 0; font-size: 14px; opacity: 0.95; line-height: 1.5;">Educational project management system with collaborative features, CRUD operations, and documentation.</p>
+          <div style="margin: 0 0 16px 0;">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+          </div>
+          <div style="display: inline-block; background: white; color: #330867; padding: 8px 24px; border-radius: 20px; font-weight: bold; font-size: 13px;">
+            🔗 View Project →
+          </div>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/fiko30?tab=repositories" style="text-decoration: none;">
+    <div style="display: inline-block; background: linear-gradient(135deg, #2B5B84 0%, #1a3a52 100%); color: white; padding: 12px 32px; border-radius: 25px; font-weight: bold; font-size: 14px; box-shadow: 0 4px 12px rgba(43, 91, 132, 0.3);">
+      📂 See All Repositories →
+    </div>
+  </a>
+</p>
 
 ---
 
