@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm <b>Fiko Naufal Nur Rohman</b>!
 
 <p align="center">
-  <b>🛡️ Cybersecurity Enthusiast | CTF Player | Digital Forensics Student</b><br>
-  <em>Learning Forensics & Security One Challenge at a Time</em>
+  <b>🛡️ Website Developer | Cybersecurity Enthusiast | CTF Player </b><br>
+  <em>Learning Web Development and Website Security</em>
 </p>
 
 ---
@@ -212,6 +212,12 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
       <td>🌙 Hackena Ramadhan CTF</td>
       <td align="center"><b>Top 11</b></td>
       <td>HackerOne Egypt</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td>🌊 CyberWave 2</td>
+      <td align="center"><b>Participant</b></td>
+      <td>JKTCoders</td>
       <td align="center">2026</td>
     </tr>
     <tr>
