@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm <b>Fiko Naufal Nur Rohman</b>!
 
 <p align="center">
-  <b>🛡️ Website Developer | Cybersecurity Enthusiast | CTF Player </b><br>
+  <b>👨‍💻 Website Developer | Cybersecurity Enthusiast | CTF Player 👨‍💻</b><br>
   <em>Learning Web Development and Website Security</em>
 </p>
 
@@ -12,7 +12,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 
 - 🎓 Jakarta State Vocational High School 40
 - 📍 Jakarta, Indonesia  
-- 🎮 Capture The Flag player | 🔍 Forensics
+- 🌐 Web Developer | 🎮 Capture The Flag player
 
 ---
 
@@ -191,6 +191,12 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
   </thead>
   <tbody>
     <tr>
+      <td>🌊 CyberWave 2</td>
+      <td align="center"><b>Juara 2</b></td>
+      <td>JKTCoders</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
       <td>🎓 LKS (Lomba Kompetensi Siswa)</td>
       <td align="center"><b>Harapan 2 / TOP 5</b></td>
       <td>Dinas Pendidikan Jakarta Timur</td>
@@ -212,12 +218,6 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
       <td>🌙 Hackena Ramadhan CTF</td>
       <td align="center"><b>Top 11</b></td>
       <td>HackerOne Egypt</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td>🌊 CyberWave 2</td>
-      <td align="center"><b>Participant</b></td>
-      <td>JKTCoders</td>
       <td align="center">2026</td>
     </tr>
     <tr>
@@ -267,7 +267,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in Cybersecur
 </p>
 
 <p align="center">
-  <b>💬 Feel free to reach out for CTF collaborations, cybersecurity discussions, or just to say hi!</b>
+  <b>💬 Feel free to reach out for web development projects, CTF collaborations, tech discussions, or just to say hi!</b>
 </p>
 
 ---
