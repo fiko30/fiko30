@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Welcome to my GitHub - Fiko Naufal Nur Rohman" width="100%" />
+  <img src="profile-banner.svg" alt="Welcome to my GitHub - Fiko Naufal Nur Rohman" width="100%" />
 </p>
 
 <p align="center">
