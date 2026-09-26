@@ -1,205 +1,237 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="100%" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" width="100%" height="100%">
   <defs>
-    <!-- Soft Clean Gradient Background -->
+    <!-- Clean Crisp Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ffffff"/>
       <stop offset="50%" stop-color="#f8fafc"/>
       <stop offset="100%" stop-color="#eff6ff"/>
     </linearGradient>
 
-    <!-- Ring Gradient -->
-    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="50%" stop-color="#60a5fa"/>
-      <stop offset="100%" stop-color="#93c5fd"/>
+    <!-- Ring & Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+
+    <!-- Card Pill Gradient -->
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
     </linearGradient>
 
     <!-- Name Gradient -->
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1e293b"/>
-      <stop offset="60%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#1d4ed8"/>
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="70%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
     </linearGradient>
 
-    <!-- Clean Drop Shadow -->
-    <filter id="cleanShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1e293b" flood-opacity="0.08"/>
+    <!-- Drop Shadows -->
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06"/>
+    </filter>
+    <filter id="pillShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#0f172a" flood-opacity="0.04"/>
     </filter>
     <filter id="avatarShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#3b82f6" flood-opacity="0.25"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#2563eb" flood-opacity="0.25"/>
     </filter>
 
-    <!-- Circular Clip for Avatar -->
+    <!-- Circular Avatar Clip -->
     <clipPath id="avatarClip">
-      <circle cx="115" cy="140" r="56"/>
+      <circle cx="130" cy="155" r="62"/>
     </clipPath>
 
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;display=swap');
 
-      text {
+      * {
         font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       }
 
-      /* Avatar Animation */
-      .avatar-group {
-        animation: avatarEnter 1s cubic-bezier(0.34, 1.56, 0.64, 1) forwards,
+      /* Animations */
+      .avatar-wrap {
+        animation: avatarPop 0.9s cubic-bezier(0.34, 1.56, 0.64, 1) forwards,
                    avatarFloat 4s ease-in-out infinite 1s;
-        transform-origin: 115px 140px;
+        transform-origin: 130px 155px;
       }
-      .avatar-ring {
-        animation: ringRotate 8s linear infinite;
-        transform-origin: 115px 140px;
+      .ring-spin {
+        animation: spin 10s linear infinite;
+        transform-origin: 130px 155px;
       }
 
-      /* Badge Animation */
-      .badge-group {
+      .header-tags {
         opacity: 0;
-        animation: fadeInDown 0.8s ease forwards 0.4s;
+        animation: fadeIn 0.8s ease forwards 0.2s;
       }
-
-      /* Name Animation */
-      .name-text {
+      .hero-name {
         opacity: 0;
-        animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards 0.7s;
+        animation: fadeIn 0.8s ease forwards 0.4s;
       }
-
-      /* Subtitle Animation */
-      .sub-text {
+      .accent-bar {
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+        animation: drawLine 1s ease forwards 0.6s;
+      }
+      .card-item-1 {
         opacity: 0;
-        animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards 1s;
+        animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards 0.7s;
+      }
+      .card-item-2 {
+        opacity: 0;
+        animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards 0.85s;
+      }
+      .card-item-3 {
+        opacity: 0;
+        animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards 1s;
+      }
+      .card-item-4 {
+        opacity: 0;
+        animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards 1.15s;
       }
 
-      /* Accent line */
-      .accent-line {
-        stroke-dasharray: 480;
-        stroke-dashoffset: 480;
-        animation: drawLine 1.2s ease forwards 1.2s;
-      }
-
-      /* Subtle floating ambient circles */
-      .orb-1 {
-        animation: orbMove1 7s ease-in-out infinite alternate;
-      }
-      .orb-2 {
-        animation: orbMove2 6s ease-in-out infinite alternate;
-      }
-
-      @keyframes avatarEnter {
-        0% { transform: scale(0.3); opacity: 0; }
+      @keyframes avatarPop {
+        0% { transform: scale(0.4); opacity: 0; }
         100% { transform: scale(1); opacity: 1; }
       }
       @keyframes avatarFloat {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-5px); }
+        50% { transform: translateY(-6px); }
       }
-      @keyframes ringRotate {
+      @keyframes spin {
         100% { transform: rotate(360deg); }
       }
-      @keyframes fadeInDown {
-        0% { opacity: 0; transform: translateY(-10px); }
-        100% { opacity: 1; transform: translateY(0); }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-8px); }
+        to { opacity: 1; transform: translateY(0); }
       }
-      @keyframes fadeInUp {
-        0% { opacity: 0; transform: translateY(12px); }
-        100% { opacity: 1; transform: translateY(0); }
+      @keyframes slideUp {
+        from { opacity: 0; transform: translateY(12px); }
+        to { opacity: 1; transform: translateY(0); }
       }
       @keyframes drawLine {
         to { stroke-dashoffset: 0; }
       }
-      @keyframes orbMove1 {
-        0% { transform: translate(0, 0); }
-        100% { transform: translate(20px, 15px); }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.4; transform: scale(0.85); }
       }
-      @keyframes orbMove2 {
-        0% { transform: translate(0, 0); }
-        100% { transform: translate(-25px, -10px); }
+      .status-dot {
+        animation: pulse 1.8s ease-in-out infinite;
+        transform-origin: 178px 198px;
       }
     </style>
   </defs>
 
-  <!-- Card Background -->
-  <rect x="5" y="5" width="840" height="270" rx="20" fill="url(#bgGrad)" stroke="#e2e8f0" stroke-width="1.5" filter="url(#cleanShadow)"/>
+  <!-- Main Clean Card -->
+  <rect x="8" y="8" width="904" height="344" rx="22" fill="url(#bgGrad)" stroke="#e2e8f0" stroke-width="1.5" filter="url(#cardShadow)"/>
 
-  <!-- Soft Clean Decorative Orbs -->
-  <g opacity="0.6">
-    <circle class="orb-1" cx="720" cy="60" r="100" fill="#e0f2fe" filter="blur(35px)"/>
-    <circle class="orb-2" cx="240" cy="220" r="80" fill="#dbeafe" filter="blur(30px)"/>
-    <circle cx="800" cy="230" r="60" fill="#ede9fe" filter="blur(30px)"/>
+  <!-- Soft Ambient Glow Orbs -->
+  <g opacity="0.55">
+    <circle cx="830" cy="50" r="110" fill="#e0f2fe" filter="blur(40px)"/>
+    <circle cx="280" cy="300" r="90" fill="#dbeafe" filter="blur(35px)"/>
+    <circle cx="850" cy="310" r="80" fill="#eff6ff" filter="blur(30px)"/>
   </g>
 
-  <!-- Subtle Clean Dot Pattern -->
-  <g fill="#cbd5e1" opacity="0.35">
-    <circle cx="750" cy="180" r="2.5"/>
-    <circle cx="770" cy="180" r="2.5"/>
-    <circle cx="790" cy="180" r="2.5"/>
-    <circle cx="750" cy="200" r="2.5"/>
-    <circle cx="770" cy="200" r="2.5"/>
-    <circle cx="790" cy="200" r="2.5"/>
-    <circle cx="750" cy="220" r="2.5"/>
-    <circle cx="770" cy="220" r="2.5"/>
-    <circle cx="790" cy="220" r="2.5"/>
+  <!-- Subtle Clean Dot Matrix Background -->
+  <g fill="#94a3b8" opacity="0.25">
+    <circle cx="830" cy="180" r="2.5"/><circle cx="850" cy="180" r="2.5"/><circle cx="870" cy="180" r="2.5"/>
+    <circle cx="830" cy="200" r="2.5"/><circle cx="850" cy="200" r="2.5"/><circle cx="870" cy="200" r="2.5"/>
+    <circle cx="830" cy="220" r="2.5"/><circle cx="850" cy="220" r="2.5"/><circle cx="870" cy="220" r="2.5"/>
   </g>
 
-  <!-- Avatar Group -->
-  <g class="avatar-group">
-    <!-- Outer dashed animated ring -->
-    <circle class="avatar-ring" cx="115" cy="140" r="65" fill="none" stroke="url(#ringGrad)" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <!-- ==================== LEFT AVATAR SECTION ==================== -->
+  <g class="avatar-wrap">
+    <!-- Spinning Dashed Neon Ring -->
+    <circle class="ring-spin" cx="130" cy="155" r="73" fill="none" stroke="url(#accentGrad)" stroke-width="2.5" stroke-dasharray="10 7"/>
     
-    <!-- White background base for avatar -->
-    <circle cx="115" cy="140" r="59" fill="#ffffff" filter="url(#avatarShadow)"/>
-    
-    <!-- Clean ring border -->
-    <circle cx="115" cy="140" r="57.5" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <!-- White Base Backing -->
+    <circle cx="130" cy="155" r="66" fill="#ffffff" filter="url(#avatarShadow)"/>
+    <circle cx="130" cy="155" r="63.5" fill="none" stroke="#eff6ff" stroke-width="3"/>
 
     <!-- Avatar Image (GitHub Profile) -->
-    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAFvElEQVR4nOzWQXHkMBgG0Z0tYzAHAzJKAzIHnwQhHFIZaZJ+j4C+i7r+bYzxD+Cv+796AMAMYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliByRs0156rnvaW8Avsp/HhFdcdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQmvMcbqDQBv57IDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7ICEbdpLz3VPe2ua/TxWT6DFP/o2lx2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZCwrR7AB3mue/WEn7efx+oJfASXHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QMJrjLF6A8DbueyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkj4CgAA//9rehe/AiUfqAAAAABJRU5ErkJggg==" 
-           x="59" y="84" width="112" height="112" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+    <image href="data:image/png;base64,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" 
+           x="68" y="93" width="124" height="124" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
 
-    <!-- Status Online Badge -->
-    <circle cx="160" cy="178" r="8" fill="#ffffff"/>
-    <circle cx="160" cy="178" r="6" fill="#10b981"/>
+    <!-- Online Status Indicator -->
+    <circle cx="178" cy="198" r="9" fill="#ffffff"/>
+    <circle class="status-dot" cx="178" cy="198" r="6.5" fill="#10b981"/>
+
+    <!-- Cool Level / Status Tag Below Avatar -->
+    <g transform="translate(68, 240)">
+      <rect x="0" y="0" width="124" height="26" rx="13" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.2"/>
+      <text x="62" y="17" text-anchor="middle" font-size="11.5" font-weight="700" fill="#2563eb" letter-spacing="1">⚡ LEVEL 17</text>
+    </g>
   </g>
 
-  <!-- Content Group -->
-  <g transform="translate(210, 0)">
-    <!-- Pill Badge: Welcome To My GitHub -->
-    <g class="badge-group" transform="translate(0, 58)">
-      <rect x="0" y="0" width="235" height="30" rx="15" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.2"/>
-      <circle cx="16" cy="15" r="4.5" fill="#3b82f6"/>
-      <text x="30" y="19" font-size="12" font-weight="700" fill="#2563eb" letter-spacing="1.2">WELCOME TO MY GITHUB</text>
+  <!-- ==================== RIGHT CONTENT SECTION ==================== -->
+  <g transform="translate(240, 0)">
+    
+    <!-- Top Row: Welcome & Location Badges -->
+    <g class="header-tags" transform="translate(0, 36)">
+      <!-- Welcome Badge -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="265" height="30" rx="15" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.2"/>
+        <text x="16" y="20" font-size="14">👋</text>
+        <text x="38" y="19" font-size="11.5" font-weight="700" fill="#2563eb" letter-spacing="0.8">YO, WELCOME TO MY GITHUB!</text>
+      </g>
+
+      <!-- Location Badge -->
+      <g transform="translate(278, 0)">
+        <rect x="0" y="0" width="280" height="30" rx="15" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2"/>
+        <text x="14" y="20" font-size="13">📍</text>
+        <text x="34" y="19" font-size="11.5" font-weight="600" fill="#475569">DKI Jakarta, Jakarta Timur 🇮🇩</text>
+      </g>
     </g>
 
-    <!-- Main Title: Name -->
-    <text class="name-text" x="0" y="132" font-size="32" font-weight="800" fill="url(#nameGrad)" letter-spacing="0.5">
-      FIKO NAUFAL NUR ROHMAN
-    </text>
-
-    <!-- Clean Accent Underline -->
-    <line class="accent-line" x1="0" y1="148" x2="440" y2="148" stroke="url(#ringGrad)" stroke-width="3" stroke-linecap="round"/>
-
-    <!-- Subtitle: Role & Highlights -->
-    <g class="sub-text" transform="translate(0, 182)">
-      <text x="0" y="0" font-size="16" font-weight="600" fill="#475569">
-        Web Developer
-      </text>
-      <circle cx="132" cy="-5" r="3" fill="#94a3b8"/>
-      <text x="146" y="0" font-size="16" font-weight="600" fill="#2563eb">
-        Cybersecurity Enthusiast
-      </text>
-      <circle cx="355" cy="-5" r="3" fill="#94a3b8"/>
-      <text x="368" y="0" font-size="16" font-weight="600" fill="#475569">
-        CTF Player
+    <!-- Main Full Name -->
+    <g class="hero-name" transform="translate(0, 102)">
+      <text x="0" y="0" font-size="29" font-weight="800" fill="url(#nameGrad)" letter-spacing="0.8">
+        FIKO NAUFAL NUR ROHMAN
       </text>
     </g>
 
-    <!-- Small subtle footer badge inside card -->
-    <g class="sub-text" transform="translate(0, 218)" opacity="0.85">
-      <rect x="0" y="0" width="135" height="24" rx="6" fill="#f1f5f9"/>
-      <text x="10" y="16" font-size="11.5" font-weight="600" fill="#64748b">📍 Jakarta, Indonesia</text>
+    <!-- Sleek Accent Divider Line -->
+    <line class="accent-bar" x1="0" y1="116" x2="640" y2="116" stroke="url(#accentGrad)" stroke-width="2.5" stroke-linecap="round"/>
 
-      <rect x="145" y="0" width="130" height="24" rx="6" fill="#f1f5f9"/>
-      <text x="155" y="16" font-size="11.5" font-weight="600" fill="#64748b">🎓 SMKN 40 Jakarta</text>
+    <!-- ==================== IDENTITY CARDS GRID ==================== -->
+
+    <!-- Card 1: Call Me (Nickname) -->
+    <g class="card-item-1" transform="translate(0, 134)">
+      <rect x="0" y="0" width="295" height="42" rx="12" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+      <text x="14" y="27" font-size="17">🤙</text>
+      <text x="44" y="25" font-size="12" font-weight="600" fill="#64748b">Hit me up as:</text>
+      <text x="135" y="25" font-size="12.5" font-weight="800" fill="#1e293b">Fiko • Fik • Ko</text>
     </g>
+
+    <!-- Card 2: Born / Birthday & Age -->
+    <g class="card-item-2" transform="translate(310, 134)">
+      <rect x="0" y="0" width="330" height="42" rx="12" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+      <text x="14" y="27" font-size="17">🎂</text>
+      <text x="44" y="25" font-size="12" font-weight="600" fill="#64748b">Spawn Day:</text>
+      <text x="125" y="25" font-size="12.5" font-weight="800" fill="#1e293b">July 30, 2009 (17 y.o)</text>
+    </g>
+
+    <!-- Card 3: School & Status -->
+    <g class="card-item-3" transform="translate(0, 190)">
+      <rect x="0" y="0" width="640" height="42" rx="12" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+      <text x="14" y="27" font-size="17">🎓</text>
+      <text x="44" y="25" font-size="12" font-weight="600" fill="#64748b">Current Grind:</text>
+      <text x="142" y="25" font-size="12.5" font-weight="700" fill="#1e293b">Student @ SMK Negeri 40 Jakarta (RPL)</text>
+    </g>
+
+    <!-- Card 4: Passion & Tech Vibe -->
+    <g class="card-item-4" transform="translate(0, 246)">
+      <rect x="0" y="0" width="640" height="42" rx="12" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+      <text x="14" y="27" font-size="17">💻</text>
+      <text x="44" y="25" font-size="12" font-weight="600" fill="#64748b">Obsessions:</text>
+      <text x="125" y="25" font-size="12.5" font-weight="700" fill="#2563eb">Web Development</text>
+      <text x="246" y="25" font-size="12.5" font-weight="600" fill="#94a3b8">•</text>
+      <text x="260" y="25" font-size="12.5" font-weight="700" fill="#2563eb">Cybersecurity &amp; CTF Player</text>
+      <text x="445" y="25" font-size="12.5" font-weight="600" fill="#94a3b8">•</text>
+      <text x="460" y="25" font-size="12.5" font-weight="700" fill="#10b981">Building &amp; Breaking 🚀</text>
+    </g>
+
   </g>
 </svg>
