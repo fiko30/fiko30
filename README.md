@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="40" height="40" />
-  <b>Hi there I'm <b>Fiko Naufal Nur Rohman</b>!</b>
-  <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="40" height="40" />
+  <img src="header.svg" alt="Welcome to my GitHub - Fiko Naufal Nur Rohman" width="100%" />
 </p>
 
 <p align="center">
