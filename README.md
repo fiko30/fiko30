@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="profile-banner.svg" alt="Welcome to my GitHub - Fiko Naufal Nur Rohman" width="100%" />
+  <b>👨‍💻 Website Developer | Cybersecurity Enthusiast | CTF Player 👷</b><br>
+  <em>Learning Web Development and Website Security</em>
 </p>
 
 <p align="center">
-  <b>👨‍💻 Website Developer | Cybersecurity Enthusiast | CTF Player 👨‍</b><br>
-  <em>Learning Web Development and Website Security</em>
+  <img src="profile-banner.svg" alt="Fiko Naufal Nur Rohman" width="100%" />
 </p>
 
 ---
