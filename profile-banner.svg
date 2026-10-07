@@ -90,7 +90,7 @@
     <circle class="ring-spin" cx="120" cy="140" r="72" fill="none" stroke="url(#accentGrad)" stroke-width="2.5" stroke-dasharray="10 7"/>
     
     <!-- White Avatar Backing -->
-    <circle cx="120" cy="140" r="65" fill="#ffffff" filter="url(#avatarShadow)"/>
+    <circle cx="120" cy="140" r="65" fill="#ffffff" filter="url(#avatarShadow)"/ >
     <circle cx="120" cy="140" r="63.5" fill="none" stroke="#eff6ff" stroke-width="3"/>
 
     <!-- Avatar Image (GitHub Profile) -->
@@ -107,51 +107,40 @@
   </g>
 
   <!-- ==================== RIGHT: IDENTITY BESIDE PHOTO ==================== -->
-  
-  <!-- Welcome Tag -->
-  <rect x="228" y="32" width="230" height="26" rx="13" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.2"/>
-  <text x="242" y="49" font-size="13">👋</text>
-  <text x="262" y="49" font-size="11" font-weight="700" fill="#2563eb" letter-spacing="0.8">WELCOME TO MY GITHUB</text>
 
   <!-- Full Name -->
-  <text x="228" y="90" font-size="27" font-weight="800" fill="#0f172a" letter-spacing="0.5">
+  <text x="228" y="72" font-size="27" font-weight="800" fill="#0f172a" letter-spacing="0.5">
     FIKO NAUFAL NUR ROHMAN
   </text>
 
   <!-- Accent Divider Line -->
-  <line x1="228" y1="104" x2="650" y2="104" stroke="url(#accentGrad)" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="228" y1="86" x2="650" y2="86" stroke="url(#accentGrad)" stroke-width="2.5" stroke-linecap="round"/>
 
   <!-- Row 1: Call Me & Age -->
   <!-- Box 1: Call Me -->
-  <rect x="228" y="120" width="295" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
-  <text x="242" y="144" font-size="16">🤙</text>
-  <text x="268" y="144" font-size="12" font-weight="600" fill="#64748b">Call Me :</text>
-  <text x="328" y="144" font-size="12.5" font-weight="800" fill="#1e293b">Fiko • Fik • Ko</text>
+  <rect x="228" y="108" width="295" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+  <text x="242" y="132" font-size="16">🤙</text>
+  <text x="268" y="132" font-size="12" font-weight="600" fill="#64748b">Call Me :</text>
+  <text x="328" y="132" font-size="12.5" font-weight="800" fill="#1e293b">Fiko • Fik • Ko</text>
 
   <!-- Box 2: Age -->
-  <rect x="535" y="120" width="310" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
-  <text x="548" y="144" font-size="16">🔥</text>
-  <text x="574" y="144" font-size="12" font-weight="600" fill="#64748b">Age :</text>
-  <text x="612" y="144" font-size="12.5" font-weight="800" fill="#1e293b">17 Years Old (Sweet 17)</text>
+  <rect x="535" y="108" width="310" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+  <text x="548" y="132" font-size="16">🔥</text>
+  <text x="574" y="132" font-size="12" font-weight="600" fill="#64748b">Age :</text>
+  <text x="612" y="132" font-size="12.5" font-weight="800" fill="#1e293b">17 Years Old (Sweet 17)</text>
 
-  <!-- Row 2: Born (TTL) & Location -->
-  <!-- Box 3: Born (TTL) -->
-  <rect x="228" y="168" width="295" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
-  <text x="242" y="192" font-size="16">🎂</text>
-  <text x="268" y="192" font-size="12" font-weight="600" fill="#64748b">Born :</text>
-  <text x="314" y="192" font-size="12.5" font-weight="800" fill="#1e293b">July 30, 2009</text>
-
-  <!-- Box 4: Location -->
-  <rect x="535" y="168" width="310" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
-  <text x="548" y="192" font-size="16">📍</text>
-  <text x="574" y="192" font-size="12" font-weight="600" fill="#64748b">Living in :</text>
-  <text x="636" y="192" font-size="12.5" font-weight="800" fill="#1e293b">DKI Jakarta, Jakarta Timur 🇮🇩</text>
+  <!-- Row 2: Location -->
+  <!-- Box 3: Location -->
+  <rect x="228" y="158" width="617" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+  <text x="242" y="182" font-size="16">📍</text>
+  <text x="268" y="182" font-size="12" font-weight="600" fill="#64748b">Living in :</text>
+  <text x="334" y="182" font-size="12.5" font-weight="800" fill="#1e293b">DKI Jakarta, Jakarta Timur</text>
 
   <!-- Row 3: Status / School -->
-  <!-- Box 5: Status -->
-  <rect x="228" y="216" width="617" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
-  <text x="242" y="240" font-size="16">🎒</text>
-  <text x="268" y="240" font-size="12" font-weight="600" fill="#64748b">Status :</text>
-  <text x="322" y="240" font-size="12.5" font-weight="800" fill="#2563eb">Student @ SMK Negeri 40 Jakarta</text>
+  <!-- Box 4: Status -->
+  <rect x="228" y="208" width="617" height="38" rx="10" fill="url(#pillGrad)" stroke="#e2e8f0" stroke-width="1.2" filter="url(#pillShadow)"/>
+  <text x="242" y="232" font-size="16">🎒</text>
+  <text x="268" y="232" font-size="12" font-weight="600" fill="#64748b">Status :</text>
+  <text x="322" y="232" font-size="12.5" font-weight="800" fill="#2563eb">Student @ SMK Negeri 40 Jakarta</text>
 
 </svg>
