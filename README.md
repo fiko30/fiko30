@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="profile-banner.svg" alt="Fiko Naufal Nur Rohman" width="100%" />
+  <img src="profile.svg" alt="Fiko Naufal Nur Rohman" width="100%" />
 </p>
 
 ---
